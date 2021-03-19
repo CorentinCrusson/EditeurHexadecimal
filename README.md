@@ -1,4 +1,4 @@
-# Projet Système - Utilisation de la notion de Fichiers Binaires
+# Projet Système - Utilisant la notion de Fichiers Binaires
 
 ## Pour commencer, mon projet respecte les principales lignes du sujet du projet n°1 :
 
